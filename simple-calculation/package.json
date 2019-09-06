@@ -1,0 +1,18 @@
+{
+  "name": "test-cms-components",
+  "version": "1.0.1",
+  "description": "\"This is a test-cms components\"",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "test-cms",
+    "test-cms-components",
+    "npm",
+    "component",
+    "test",
+    "cms",
+    "component"
+  ],
+  "author": "Md. Shamim",
+  "license": "ISC"
+}
